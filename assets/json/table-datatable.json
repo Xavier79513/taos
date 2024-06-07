@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "column_en_blanco": "",
+      "id":"20241",
+      "full_name": "John Doe",
+      "post": "Software Engineer",
+      "email": "john.doe@example.com",
+      "city": "China",
+      "start_date": "2022-04-01",
+      "salary": 80000,
+      "status": 1,
+      "column_en_blanco-2": ""
+    },
+    {
+      "column_en_blanco": "",
+      "id":"20242",
+      "full_name": "Jane Smith",
+      "post": "Data Analyst",
+      "email": "jane.smith@example.com",
+      "city": "Perú",
+      "start_date": "2022-03-15",
+      "salary": 65000,
+      "status": 2,
+      "column_en_blanco-2": ""
+    },
+    {
+      "column_en_blanco": "",
+      "id":"20243",
+      "full_name": "Alice Johnson",
+      "post": "UI/UX Designer",
+      "email": "alice.johnson@example.com",
+      "city": "Croacia",
+      "start_date": "2022-02-20",
+      "salary": 70000,
+      "status": 4,
+      "column_en_blanco-2": ""
+    },
+    {
+        "column_en_blanco": "",
+        "id":"20244",
+        "full_name": "Bob Brown",
+        "post": "Frontend Developer",
+        "email": "bob.Brown@example.com",
+        "city": "España",
+        "start_date": "2022-01-10",
+        "salary": 75000,
+        "status": 3,
+        "column_en_blanco-2": ""
+    },
+    {
+      "column_en_blanco": "",
+      "id":"20245",
+      "full_name": "Ana Milla",
+      "post": "Frontend Developer",
+      "email": "ana.Milla@example.com",
+      "city": "España",
+      "start_date": "2022-01-10",
+      "salary": 50000,
+      "status": 3,
+      "column_en_blanco-2": ""
+    },
+    {
+      "column_en_blanco": "",
+      "id":"20246",
+      "full_name": "Carlos Perez",
+      "post": "Backend Developer",
+      "email": "carlos.perez@example.com",
+      "city": "México",
+      "start_date": "2022-05-01",
+      "salary": 85000,
+      "status": 1,
+      "column_en_blanco-2": ""
+    },
+    {
+      "column_en_blanco": "",
+      "id":"20247",
+      "full_name": "Maria Lopez",
+      "post": "Project Manager",
+      "email": "maria.lopez@example.com",
+      "city": "Argentina",
+      "start_date": "2022-04-15",
+      "salary": 90000,
+      "status": 2,
+      "column_en_blanco-2": ""
+    },
+    {
+      "column_en_blanco": "",
+      "id":"20248",
+      "full_name": "Juan Rodriguez",
+      "post": "Data Scientist",
+      "email": "juan.rodriguez@example.com",
+      "city": "Colombia",
+      "start_date": "2022-03-20",
+      "salary": 95000,
+      "status": 4,
+      "column_en_blanco-2": ""
+    },
+    {
+      "column_en_blanco": "",
+      "id":"20249",
+      "full_name": "Sofia Martinez",
+      "post": "DevOps Engineer",
+      "email": "sofia.martinez@example.com",
+      "city": "Chile",
+      "start_date": "2022-02-10",
+      "salary": 100000,
+      "status": 3,
+      "column_en_blanco-2": ""
+    },
+    {
+      "column_en_blanco": "",
+      "id":"20250",
+      "full_name": "Pedro Garcia",
+      "post": "Full Stack Developer",
+      "email": "pedro.garcia@example.com",
+      "city": "España",
+      "start_date": "2022-01-05",
+      "salary": 105000,
+      "status": 1,
+      "column_en_blanco-2": ""
+    }
+  ]
+}
